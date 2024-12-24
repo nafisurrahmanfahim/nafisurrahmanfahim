@@ -1,5 +1,4 @@
-![Web Developer](https://www.pngmart.com/files/22/Programmer-PNG-Photos.png)
-### Hi there 👋, I'm Fahim
+# Hi there 👋, I'm Fahim
 #### Web Developer
 
 I'm a Front End Web developer who is passionate about making error-free websites 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicity as possible. I pride myself on doing quality work and maintain excellent communication.
