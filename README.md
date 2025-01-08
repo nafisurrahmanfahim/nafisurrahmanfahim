@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Fahim
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'am a Front End Web developer who is passionate about making error-free websites wite 100% client satisfaction. I have a passion for learning. I pride myself on doing quality work and maintain excellent communication.
 
