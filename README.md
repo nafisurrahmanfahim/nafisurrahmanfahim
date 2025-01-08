@@ -5,7 +5,13 @@ I'am a Front End Web developer who is passionate about making error-free website
 
 Skills: <br/> 
 ✅ HTML <br/> 
-✅ CSS / BOOTSTRAP / JS / SASS / REACT / TAILWIND CSS / NODE JS / 
+✅ CSS <br/> 
+✅ BOOTSTRAP <br/>
+✅ JS <br/>
+✅ SASS <br/> 
+✅ REACT <br/>
+✅ TAILWIND CSS <br/>
+✅ NODE JS 
 
 - 🌱 I’m currently learning node js 
 - 👯 I’m looking to collaborate on github 
