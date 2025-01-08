@@ -3,7 +3,9 @@
 
 I'am a Front End Web developer who is passionate about making error-free websites wite 100% client satisfaction. I have a passion for learning. I pride myself on doing quality work and maintain excellent communication.
 
-Skills: HTML / CSS / BOOTSTRAP / JS / SASS / REACT / TAILWIND CSS / NODE JS / 
+Skills: <br/> 
+✅ HTML <br/> 
+✅ CSS / BOOTSTRAP / JS / SASS / REACT / TAILWIND CSS / NODE JS / 
 
 - 🌱 I’m currently learning node js 
 - 👯 I’m looking to collaborate on github 
